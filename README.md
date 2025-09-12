@@ -5,9 +5,9 @@ Computer Science Student
 ------------------------
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [ahmeb107@outlook.com](mailto:ahmeb107@outlook.com)
-* 🧠  I'm learning the Linux terminal and React
-* ⚡  I'm currently in my second year of University
+* ✉️  You can contact me at [ahmedbondhan4@gmail.com](mailto:ahmedbondhan4@gmail.com)
+* 🧠  I'm learning JavaScript and React
+* ⚡  I'm currently in my final year of University
 
 ### Skills
 
