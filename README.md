@@ -6,7 +6,7 @@ Computer Science Student
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [ahmedbondhan4@gmail.com](mailto:ahmedbondhan4@gmail.com)
-* 🧠  I'm learning JavaScript and React
+* 🧠  I'm learning full stack web development
 * ⚡  I'm currently in my final year of University
 
 ### Skills
