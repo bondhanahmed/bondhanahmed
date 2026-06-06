@@ -1,7 +1,7 @@
-Hi 👋 My name is Bondhan Ahmed
+Hi 👋 My name is Bondhan
 ==============================
 
-Computer Science Student
+Aspiring Software Developer
 ------------------------
 
 * 🌍  I'm based in London
