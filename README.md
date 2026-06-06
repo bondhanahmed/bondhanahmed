@@ -1,4 +1,4 @@
-Hi 👋 My name is Bondhan
+Hi 👋 my name is Bondhan
 ==============================
 
 Aspiring Software Developer
