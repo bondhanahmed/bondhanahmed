@@ -11,7 +11,7 @@ I just completed my final year of a BSc Computer Science degree at Queen Mary Un
 ## 🚀 Projects
 
 ### [MoodBites: Mood-adaptive Recipe Recommender](https://github.com/bondhanahmed/mood-adaptive-recipes-project)
-A full-stack Flask web app that recommends recipes based on your mood using NLP via a HuggingFace model. I ran my own user research (surveys + interviews with Figma prototypes) to shape the functional and non-functional requirements, built it across 4 agile sprints with weekly feedback loops, and evaluated it through performance, manual, and user acceptance testing.  
+A full-stack Flask web app that recommends recipes based on your mood using NLP via a HuggingFace emotion classifier model (https://huggingface.co/j-hartmann/emotion-english-distilroberta-base). I ran my own user research (surveys + interviews with Figma prototypes) to shape the functional and non-functional requirements, built it across 4 agile sprints with weekly feedback loops, and evaluated it through performance, manual, and user acceptance testing.  
 `Python` `Flask` `SQLAlchemy` `NLP` `Figma`
 
 ### [SkyLeap: 3D Unity Platformer](https://github.com/AamnaG/Group-Project)
