@@ -1,8 +1,8 @@
-# Hi👋
+# Hi there, I'm Bondhan 🌸
 
 ### Final-year Computer Science Student · Based in London · Open to Work
 
-I'm Bondhan and I just completed my final year of a BSc Computer Science degree at Queen Mary University of London. I enjoy building software and experimenting with new tools and technologies, with an interest in data, UI/UX design, testing, and applications of AI. Feel free to send me a message on linkedin or email :)
+I just completed my final year of a BSc Computer Science degree at Queen Mary University of London. I enjoy building software and experimenting with new tools and technologies, with an interest in data, UI/UX design, testing, and applications of AI. Feel free to send me a message on linkedin or email :)
 
 📫 [ahmedbondhan4@gmail.com](mailto:ahmedbondhan4@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/bondhan-ahmed-5bb2861b2/)
 
