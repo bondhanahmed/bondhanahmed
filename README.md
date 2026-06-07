@@ -1,4 +1,4 @@
-# Hi there👋
+# Hi👋
 
 ### Final-year Computer Science Student · Based in London · Open to Work
 
@@ -10,11 +10,11 @@ I'm Bondhan and I just completed my final year of a BSc Computer Science degree 
 
 ## 🚀 Projects
 
-### [MoodBites — Mood-adaptive Recipe Recommender](https://github.com/bondhanahmed/mood-adaptive-recipes-project)
+### [MoodBites: Mood-adaptive Recipe Recommender](https://github.com/bondhanahmed/mood-adaptive-recipes-project)
 A full-stack Flask web app that recommends recipes based on your mood using NLP via a HuggingFace model. I ran my own user research (surveys + interviews with Figma prototypes) to shape the functional and non-functional requirements, built it across 4 agile sprints with weekly feedback loops, and evaluated it through performance, manual, and user acceptance testing.  
 `Python` `Flask` `SQLAlchemy` `NLP` `Figma`
 
-### [SkyLeap — 3D Unity Platformer](https://github.com/AamnaG/Group-Project)
+### [SkyLeap: 3D Unity Platformer](https://github.com/AamnaG/Group-Project)
 A 3D platformer game built as a group project. I handled game and level design, modelled all the 3D assets in Blender (platforms, NPCs, coins, interactive objects), and wrote the C# scripts for player movement and NPC dialogue/decision systems. Ran bi-weekly user testing throughout and kept a comprehensive dev log that helped the team stay on track and hit milestones.  
 `C#` `Unity` `Blender` `GitHub`
 
